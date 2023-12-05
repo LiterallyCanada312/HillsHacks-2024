@@ -50,7 +50,7 @@ const Index = props => (
       </Text>
       <Text variant="lead">
         <b>
-          This is the sixth iteration of hillsHacks, Watchung Hills' premier
+          This is the seventh iteration of hillsHacks, Watchung Hills' premier
           hackathon open to students grades 7 through 12.
         </b>
       </Text>
@@ -95,7 +95,7 @@ const Index = props => (
       <Card>
         <Heading variant="headline" sx={{fontSize: "40px"}}>Details</Heading>
         <Text as="p"><b>Where:</b> <Link href="https://goo.gl/maps/se4i7cSCAxGcRvYHA" target="_blank">Watchung Hills Regional High School</Link> (108 Stirling Rd, Warren, NJ 07059)</Text><br/>
-        <Text as="p"><b>When:</b> March 18th, 2023 from 11:00AM-4:30PM</Text><br/>
+        <Text as="p"><b>When:</b> March 16th, 2024 from 11:00AM-4:30PM</Text><br/>
         <Text as="p"><b>Cost:</b> There will be an entry fee of $15 to cover costs for food and T-shirts for all attendees!</Text><br/>
         <Text as="p"><b>Who:</b> All students in grades 7-12 are welcome to attend, regardless of experience!</Text>
       </Card>
@@ -190,7 +190,7 @@ const Index = props => (
         <Link href="https://github.com/googol88/hillshacks-vi">source</Link>.
       </Text>
       <Text as="p" sx={{ fontSize: 1, color: 'muted' }}>
-        © Copyright 2023 hillsHacks
+        © Copyright 2024 hillsHacks
       </Text>
     </footer>
   </>
