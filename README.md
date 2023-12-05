@@ -2,7 +2,7 @@
 
 The source of the website powering hillsHack's seventh annual hackathon. Made with Next.js and Theme UI.
 
-See the [source](https://github.com/googol88/hillshacks-v) of last year's website
+See the [source](https://github.com/googol88/hillshacks-vi) of last year's website
 
 [next.js]: https://nextjs.org
 [mdx]: https://mdxjs.com
