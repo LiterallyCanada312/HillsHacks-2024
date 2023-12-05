@@ -1,6 +1,6 @@
-# hillsHacks VI
+# hillsHacks VII
 
-The source of the website powering hillsHack's sixth annual hackathon. Made with Next.js and Theme UI.
+The source of the website powering hillsHack's seventh annual hackathon. Made with Next.js and Theme UI.
 
 See the [source](https://github.com/googol88/hillshacks-v) of last year's website
 
