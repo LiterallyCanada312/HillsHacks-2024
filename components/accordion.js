@@ -119,7 +119,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            Full registrations are now open! Go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLSeLs1-A2f_6d08CxvqZW7-UA6S3K7tDtgCM1eEM7JpvMy-7Sw/viewform">this form</Link> and make sure to pay the registration fee.
+            Full registrations will open soon! To register in advance go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLSeLs1-A2f_6d08CxvqZW7-UA6S3K7tDtgCM1eEM7JpvMy-7Sw/viewform">this form</Link>
           </p>
         </AccordionItemPanel>
       </AccordionItem>
