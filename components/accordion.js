@@ -48,7 +48,7 @@ const Faq = () => {
           <AccordionItemButton>When will hillsHacks be?</AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel>
-          <p>The event will take place on March 18th, 2023 from 11:00 AM to 4:30 PM.</p>
+          <p>The event will take place on March 16th, 2024. Time is TBD</p>
         </AccordionItemPanel>
       </AccordionItem>
       <AccordionItem>
@@ -57,7 +57,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            The entry fee for hillsHacks is <b>$15</b>. Payment methods are to be determined.
+            The entry fee for hillsHacks is <b>$20</b>. Payment methods are to be determined.
           </p>
         </AccordionItemPanel>
       </AccordionItem>
@@ -119,7 +119,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            Full registrations will open soon! To register in advance go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLSeLs1-A2f_6d08CxvqZW7-UA6S3K7tDtgCM1eEM7JpvMy-7Sw/viewform">this form</Link>
+            Full registrations will open soon! To register in advance go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLSfI0tcJSsU1VaTBmm1UBPqMKMLQJ9jV09MGY5OrnSHUuhuHKQ/viewform?usp=sf_link">this form</Link>
           </p>
         </AccordionItemPanel>
       </AccordionItem>
@@ -129,7 +129,7 @@ const Faq = () => {
           </AccordionItemHeading>
           <AccordionItemPanel>
             <p>
-              Yes, lunch is covered by the $15 entry fee! 
+              Yes, lunch is covered by the $20 entry fee! 
             </p>
           </AccordionItemPanel>
         </AccordionItem>

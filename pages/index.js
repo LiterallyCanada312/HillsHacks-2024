@@ -96,8 +96,8 @@ const Index = props => (
         <Heading variant="headline" sx={{fontSize: "40px"}}>Details</Heading>
         <Text as="p"><b>Where:</b> <Link href="https://goo.gl/maps/se4i7cSCAxGcRvYHA" target="_blank">Watchung Hills Regional High School</Link> (108 Stirling Rd, Warren, NJ 07059)</Text><br/>
         <Text as="p"><b>When:</b> March 16th, 2024</Text><br/>
-        <Text as="p"><b>Cost:</b> There will be an entry fee of $15 to cover costs for food and T-shirts for all attendees!</Text><br/>
-        <Text as="p"><b>Who:</b> All students in grades 7-12 are welcome to attend, regardless of experience!</Text>
+        <Text as="p"><b>Cost:</b> There will be an entry fee of $20 to cover costs for food and T-shirts for all attendees!</Text><br/>
+        <Text as="p"><b>Who:</b> All students in grades 7 and up are welcome to attend, regardless of experience!</Text>
       </Card>
     </Container>
     <Container id="faq" as="section" py={4} {...props}>
@@ -168,7 +168,7 @@ const Index = props => (
               as="a"
               target="_blank"
               mr={4}
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeLs1-A2f_6d08CxvqZW7-UA6S3K7tDtgCM1eEM7JpvMy-7Sw/viewform"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfI0tcJSsU1VaTBmm1UBPqMKMLQJ9jV09MGY5OrnSHUuhuHKQ/viewform?usp=sf_link"
             >
               Register Now
             </Button>
@@ -188,7 +188,7 @@ const Index = props => (
       </Text>
       <Text as="p" mb={2} sx={{ fontSize: 1 }}>
         Created with &#x3C;3 by the Watchung Hills CS Club. See the{' '}
-        <Link href="https://github.com/googol88/hillshacks-vi">source</Link>.
+        <Link href="https://github.com/LiterallyCanada312/HillsHacks-2024">source</Link>.
       </Text>
       <Text as="p" sx={{ fontSize: 1, color: 'muted' }}>
         © Copyright 2024 hillsHacks
