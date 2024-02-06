@@ -48,7 +48,7 @@ const Faq = () => {
           <AccordionItemButton>When will hillsHacks be?</AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel>
-          <p>The event will take place on March 16th, 2024. Time is TBD</p>
+          <p>The event will take place on March 16th, 2024. The event will be from 11:00 AM to 4:00 PM</p>
         </AccordionItemPanel>
       </AccordionItem>
       <AccordionItem>
