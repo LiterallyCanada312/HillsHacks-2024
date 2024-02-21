@@ -57,7 +57,9 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            The entry fee for hillsHacks is <b>$25</b>. Pay ahead of time or at the door. To pay ahead of time, write a $25 check out to "WHRHS" with the participants name in the subject field and mail it to (TBD) 
+          Make checks Payable to WHRHS. Include participant name in the memo.
+          Mail to Mary Ellen Phelan at Watchung Hills Regional High School 
+          108 Stirling Road Warren, NJ 07059
           </p>
         </AccordionItemPanel>
       </AccordionItem>
