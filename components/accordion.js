@@ -57,7 +57,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            The entry fee for hillsHacks is <b>$20</b>. Payment methods are to be determined.
+            The entry fee for hillsHacks is <b>$25</b>. Pay ahead of time or at the door. To pay ahead of time, write a $25 check out to "WHRHS" with the participants name in the subject field and mail it to (TBD) 
           </p>
         </AccordionItemPanel>
       </AccordionItem>
@@ -130,7 +130,7 @@ const Faq = () => {
           </AccordionItemHeading>
           <AccordionItemPanel>
             <p>
-              Yes, lunch is covered by the $20 entry fee! 
+              Yes, lunch is covered by the $25 entry fee! 
             </p>
           </AccordionItemPanel>
         </AccordionItem>
