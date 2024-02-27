@@ -57,6 +57,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
+          Entry will be $25.
           Make checks Payable to WHRHS. Include participant name in the memo.
           Mail to Mary Ellen Phelan at Watchung Hills Regional High School 
           108 Stirling Road Warren, NJ 07059
