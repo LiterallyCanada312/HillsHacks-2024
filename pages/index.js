@@ -156,10 +156,10 @@ const Index = props => (
         <Flex sx={{ flexWrap: 'wrap' }}>
           <Box sx={{ flex: '1 1 auto' }}>
             <Heading as="h1" variant="headline">
-              So...what are you waiting for?
+              HillsHacks is today!
             </Heading>
             <Heading variant="subtitle">
-              Registration is free and only takes a minute!
+              To view the schedule, click here
             </Heading>
           </Box>
           <Box sx={{ alignSelf: 'center' }}>

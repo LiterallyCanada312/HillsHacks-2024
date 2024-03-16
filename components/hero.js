@@ -31,7 +31,7 @@ const Hero = props => (
       <Heading my={2} variant="subtitle" color="white" sx={{textShadow: "0 0 32px #000"}}>March 16th, 2024</Heading>
       <Text mt={2} mb={4} sx={{display: "block", textShadow: "0 0 32px #000"}} color="white">In-Person, Watchung Hills Regional High School</Text>
       <Button variant="lg" as="a" target="_blank" my={2}
-    href="https://docs.google.com/forms/d/e/1FAIpQLSfhXSaahYkV5PiHG3qwJ2JLud9DsSxyi0k-UgZGuLQt_bHhAw/viewform">Register NOW!</Button>
+    href="https://drive.google.com/file/d/1Xa4lLkreF9vQLpDoL8PfC8YcEQK9tyNt/view">Schedule</Button>
     </Container>
   </Box> 
 )
