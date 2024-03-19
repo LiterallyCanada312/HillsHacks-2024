@@ -51,7 +51,7 @@ the last instance of each tag will be used, with duplicates.
 If you don’t set a `description` or `image`, the relevant tags for those fields
 will be omitted.
 
-Here’s how you use `Meta` on a page:
+Here’s how you use `Meta` on a page :
 
 ```js
 import Meta from '../components/meta'
