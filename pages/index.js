@@ -50,7 +50,7 @@ const Index = props => (
       </Text>
       <Text variant="lead">
         <b>
-          This is the seventh iteration of hillsHacks, Watchung Hills' premier
+          This is the eighth iteration of hillsHacks, Watchung Hills' premier
           hackathon open to students grades 7 through 12.
         </b>
       </Text>
@@ -95,7 +95,7 @@ const Index = props => (
       <Card>
         <Heading variant="headline" sx={{fontSize: "40px"}}>Details</Heading>
         <Text as="p"><b>Where:</b> <Link href="https://goo.gl/maps/se4i7cSCAxGcRvYHA" target="_blank">Watchung Hills Regional High School</Link> (108 Stirling Rd, Warren, NJ 07059)</Text><br/>
-        <Text as="p"><b>When:</b> March 16th, 2024 11:00 AM - 4:00 PM</Text><br/>
+        <Text as="p"><b>When:</b> March 16th, 2025 11:00 AM - 4:00 PM</Text><br/>
         <Text as="p"><b>Cost:</b> There will be an entry fee of $25 to cover costs for food and T-shirts for all attendees!</Text><br/>
         <Text as="p"><b>Who:</b> All students in grades 7 and up are welcome to attend, regardless of experience!</Text>
       </Card>
@@ -156,7 +156,7 @@ const Index = props => (
         <Flex sx={{ flexWrap: 'wrap' }}>
           <Box sx={{ flex: '1 1 auto' }}>
             <Heading as="h1" variant="headline">
-              HillsHacks is today!
+              HillsHacks is on the way!
             </Heading>
             <Heading variant="subtitle">
               To view the schedule, click here
@@ -179,6 +179,7 @@ const Index = props => (
     <footer sx={{ textAlign: 'center', padding: 4 }}>
       <Text as="p" mb={2} sx={{ fontSize: 1 }}>
         Previous years:{' '}
+        <Link href="https://hills-hacks-2024.vercel.app/">2024</Link> |{' '}
         <Link href="https://2023.hillshacks.com/">2023</Link> |{' '}
         <Link href="https://2022.hillshacks.com/" ml={2}>2022</Link> |{' '}
         <Link href="https://2021.hillshacks.com/">2021</Link> |{' '}
@@ -188,10 +189,10 @@ const Index = props => (
       </Text>
       <Text as="p" mb={2} sx={{ fontSize: 1 }}>
         Created with &#x3C;3 by the Watchung Hills CS Club. See the{' '}
-        <Link href="https://github.com/LiterallyCanada312/HillsHacks-2024">source</Link>.
+        <Link href="https://github.com/LiterallyCanada312/HillsHacks2025">source</Link>.
       </Text>
       <Text as="p" sx={{ fontSize: 1, color: 'muted' }}>
-        © Copyright 2024 hillsHacks
+        © Copyright 2025 hillsHacks
       </Text>
     </footer>
   </>
